@@ -9,4 +9,5 @@ a = torch.ones(2)
 
 print(f"{a}")
 
-haha
+
+print("Ffffffff")
